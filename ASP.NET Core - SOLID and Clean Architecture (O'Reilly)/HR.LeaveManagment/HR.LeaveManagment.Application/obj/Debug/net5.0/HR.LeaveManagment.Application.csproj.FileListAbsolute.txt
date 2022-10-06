@@ -1,0 +1,15 @@
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Application\bin\Debug\net5.0\HR.LeaveManagment.Application.deps.json
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Application\bin\Debug\net5.0\HR.LeaveManagment.Application.dll
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Application\bin\Debug\net5.0\HR.LeaveManagment.Application.pdb
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Application\bin\Debug\net5.0\HR.LeaveManagment.Domain.dll
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Application\bin\Debug\net5.0\HR.LeaveManagment.Domain.pdb
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Application\obj\Debug\net5.0\HR.LeaveManagment.Application.csproj.AssemblyReference.cache
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Application\obj\Debug\net5.0\HR.LeaveManagment.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Application\obj\Debug\net5.0\HR.LeaveManagment.Application.AssemblyInfoInputs.cache
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Application\obj\Debug\net5.0\HR.LeaveManagment.Application.AssemblyInfo.cs
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Application\obj\Debug\net5.0\HR.LeaveManagment.Application.csproj.CoreCompileInputs.cache
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Application\obj\Debug\net5.0\HR.LeaveManagment.Application.csproj.CopyComplete
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Application\obj\Debug\net5.0\HR.LeaveManagment.Application.dll
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Application\obj\Debug\net5.0\refint\HR.LeaveManagment.Application.dll
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Application\obj\Debug\net5.0\HR.LeaveManagment.Application.pdb
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Application\obj\Debug\net5.0\ref\HR.LeaveManagment.Application.dll

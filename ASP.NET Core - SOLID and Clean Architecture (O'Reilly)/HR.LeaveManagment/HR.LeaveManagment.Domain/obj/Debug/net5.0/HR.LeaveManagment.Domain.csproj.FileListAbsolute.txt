@@ -1,0 +1,12 @@
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Domain\bin\Debug\net5.0\HR.LeaveManagment.Domain.deps.json
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Domain\bin\Debug\net5.0\HR.LeaveManagment.Domain.dll
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Domain\bin\Debug\net5.0\HR.LeaveManagment.Domain.pdb
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Domain\obj\Debug\net5.0\HR.LeaveManagment.Domain.csproj.AssemblyReference.cache
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Domain\obj\Debug\net5.0\HR.LeaveManagment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Domain\obj\Debug\net5.0\HR.LeaveManagment.Domain.AssemblyInfoInputs.cache
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Domain\obj\Debug\net5.0\HR.LeaveManagment.Domain.AssemblyInfo.cs
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Domain\obj\Debug\net5.0\HR.LeaveManagment.Domain.csproj.CoreCompileInputs.cache
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Domain\obj\Debug\net5.0\HR.LeaveManagment.Domain.dll
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Domain\obj\Debug\net5.0\refint\HR.LeaveManagment.Domain.dll
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Domain\obj\Debug\net5.0\HR.LeaveManagment.Domain.pdb
+C:\Cursos\net-practise\ASP.NET Core - SOLID and Clean Architecture (O'Reilly)\HR.LeaveManagment\HR.LeaveManagment.Domain\obj\Debug\net5.0\ref\HR.LeaveManagment.Domain.dll
